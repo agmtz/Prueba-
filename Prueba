@@ -1,0 +1,47 @@
+<html>
+
+    <head>
+
+        <title>FORMULARIO AUSENCIAS RRHH</title>
+         </head> 
+            <button> Constancia de ingreso </button> <input type="submit" value="CONSTANCIA DE INGRESO " name="1" />
+                <form FORM="obtener" action="enviando_datos.php">
+    <input type="text" name="name" placeholder="ingrese su nombre aquí">
+    <input type="e-mail" name="e-mail" placeholder="Ingrese su correo electrónico">
+    <tipo de entrada="enviar" nombre="enviar" valor="Enviar">    
+      <button> Constancia laboral </button> <input type="submit" value="CONSTANCIA LABORAL " name="2" />
+      <form form ="obtener" action="enviando_datos.php">
+    <input type="text" name="name" placeholder="ingrese su nombre aquí">
+    <input type="e-mail" name="e-mail" placeholder="Ingrese su correo electróico">
+    <tipo de entrada="enviar" nombre="enviar" valor="Enviar">    
+        <button> SALIDA DE VACACIONES </button> <input type="submit" value="SALIDA DE VACACIONES " name="3" />
+        <form form ="obtener" action="enviando_datos.php">
+    <input type="text" name="name" placeholder="ingrese su nombre aquí">
+    <input type="e-mail" name="e-mail" placeholder="Ingrese su correo electrónico">
+    <tipo de entrada="enviar" nombre="enviar" valor="Enviar">    
+        <formulario>
+    Fecha: <input type="datetime-local" name="bdaytime">
+</formulario>
+          <button> Constancia recibo de pagos </button> <input type="submit" value="CONSTANCIA RECIBO DE PAGOS " name="4" />
+          <form form="obtener" action="enviando_datos.php">
+    <input type="text" name="name" placeholder="ingrese su nombre aquí">
+    <input type="e-mail" name="e-mail" placeholder="Ingrese su correo electrónico">
+    <tipo de entrada="enviar" nombre="enviar" valor="Enviar">    
+            <button> Cartas para embajadas </button> <input type="submit" value="CARTA PARA EMBAJADAS " name="5" />
+            <form form="obtener" action="enviando_datos.php">
+    <input type="text" name="name" placeholder="ingrese su nombre aquí">
+    <input type="e-mail" name="e-mail" placeholder="Ingrese su correo electrónico">
+    <tipo de entrada="enviar" nombre="enviar" valor="Enviar">    
+             <button> CONTROL DE VACACIONES </button> <input type="submit" value="Control de vacaciones " name="6" />
+             <form form="obtener" action="enviando_datos.php">
+    <input type="text" name="name" placeholder="ingrese su nombre aquí">
+    <input type="e-mail" name="e-mail" placeholder="Ingrese su correo electrónico">
+    <tipo de entrada="enviar" nombre="enviar" valor="Enviar">    
+    <label> Nombres </label>
+    <label> Apellidos</label>
+    <formulario>
+           Correo electrÃ³nico: <input type="email" name="e-mail" placeholder="ingrese su correo electrÃ³nico aquÃ­">
+    Fecha: <input type="datetime-local" name="bdaytime">
+</formulario>  
+    </body>
+</html>
